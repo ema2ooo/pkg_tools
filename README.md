@@ -15,3 +15,8 @@ This tool parses all pkg files in the specified directory/directories recursivel
     place the program within the directory of pkg games
     run program
     it will export PKG_LIST.xlsx
+
+# Requirement
+
+    python
+    for PKG List, you are needed to install dependencies for xlsx writer
